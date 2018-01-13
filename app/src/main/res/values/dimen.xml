@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standardSizeFont">16sp</dimen>
+    <dimen name="bigFont">24sp</dimen>
+    <dimen name="smallFont">12sp</dimen>
+    <dimen name="standardMargin">16dp</dimen>
+    <dimen name="bigMargin">22dp</dimen>
+    <dimen name="halfMargin">8dp</dimen>
+    <dimen name="zeroInside">8dp</dimen>
+</resources>

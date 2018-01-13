@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper app</string>
+    <string name="teamA">Score Team A</string>
+    <string name="teamB">Score Team B</string>
+    <string name="goal">Goal !</string>
+    <string name="redCard">Red card</string>
+    <string name="yellowCard">Yellow card</string>
+    <string name="penalties">Penalties</string>
+    <string name="resScore">Reset score</string>
+    <string name="lastGameA">Last game was won by team A</string>
+    <string name="lastGameB">Last game was won by team B</string>
+    <string name="lastGameDraw">Last game was a draw</string>
+</resources>
