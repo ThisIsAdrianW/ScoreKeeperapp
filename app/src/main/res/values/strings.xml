@@ -10,4 +10,7 @@
     <string name="lastGameA">Last game was won by team A</string>
     <string name="lastGameB">Last game was won by team B</string>
     <string name="lastGameDraw">Last game was a draw</string>
+    <string name="res1">This button will reset the score</string>
+    <string name="goalforteamB">This button adds score for team B</string>
+    <string name="goalforteamA">This button adds score for team A</string>
 </resources>

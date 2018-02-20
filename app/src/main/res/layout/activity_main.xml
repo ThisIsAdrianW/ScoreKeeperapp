@@ -84,7 +84,8 @@
             android:text="@string/goal"
             android:layout_gravity="left"
             android:layout_weight="1"
-            android:onClick="goalForA"/>
+            android:onClick="goalForA"
+            android:contentDescription="@string/goalforteamA"/>
         <Button
             android:layout_width="@dimen/zeroInside"
             android:backgroundTint="@color/colorPrimaryDark"
@@ -92,7 +93,8 @@
             android:text="@string/goal"
             android:layout_gravity="right"
             android:layout_weight="1"
-            android:onClick="goalForB"/>
+            android:onClick="goalForB"
+            android:contentDescription="@string/goalforteamB"/>
     </LinearLayout>
     <TextView
         android:layout_width="match_parent"
@@ -229,6 +231,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="resetButton"
+        android:contentDescription="@string/res1"
         android:backgroundTint="@color/colorPrimaryDark"
         android:text="@string/resScore"/>
     <TextView

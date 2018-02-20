@@ -15,12 +15,12 @@ import org.w3c.dom.Text;
 public class MainActivity extends AppCompatActivity {
     /**Global variables in forms of ints that keep score, yellow
      * and red card count for team A and B*/
-    int teamA = 0;
-    int teamB = 0;
-    int yellowcardA = 0;
-    int yellowcardB = 0;
-    int redcardA = 0;
-    int redcardB = 0;
+    private int teamA = 0;
+    private int teamB = 0;
+    private int yellowcardA = 0;
+    private int yellowcardB = 0;
+    private int redcardA = 0;
+    private int redcardB = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
